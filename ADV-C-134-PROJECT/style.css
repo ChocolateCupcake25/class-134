@@ -1,0 +1,29 @@
+body{
+    background-size:cover ;
+    background-position: center;
+}
+.heading
+{
+background-color: #e608ff;
+font-size: 23px;
+width: 100%;
+margin: 0px; 
+box-shadow:5px 5px 5px hotpink;
+}
+
+#status
+{
+background-color: #9157d4;   
+font-size: 18px;
+}
+
+#person{
+    font-size: 18px;
+    background-color: plum;
+}
+
+canvas{
+    border:5px ridge indigo;
+    box-shadow:10px 10px 10px  indigo;
+    border-radius: 20px;
+}
